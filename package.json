@@ -1,0 +1,22 @@
+{
+  "name": "easy-bank",
+  "version": "1.0.0",
+  "description": "\"front-end mentor challenge\"",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss build './src/static files/styles.css' -o './public/static files/main.css'",
+    "produ": "NODE_ENV=production postcss build './src/static files/styles.css' -o './public/static files/main.css'"
+  },
+  "keywords": [
+    "tailwind",
+    "easybank",
+    "challenge"
+  ],
+  "author": "Samuel Pacheco",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.3.4",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.2.15"
+  }
+}

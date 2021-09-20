@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* self styles */
+
+footer{
+    background-color: #2D314E;
+}
+
+h1, h2{
+    color: hsl(233, 26%, 24%);
+}
+
+button{
+    background: linear-gradient(to right, hsl(136, 65%, 51%),hsl(192, 70%, 51%));
+
+}
+
+@media (min-width: 1024px) {
+    #img-area{
+        background: url(../../src/assets/bg-intro-desktop.svg) no-repeat;
+        background-size: cover;
+    }
+    
+}
+
+@media (max-width: 1024px) {
+    #img-area{
+        background: url(../../src/assets/bg-intro-mobile.svg) no-repeat;
+        background-size: cover;
+    }
+    
+}
