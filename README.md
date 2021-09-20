@@ -1,42 +1,36 @@
 ### Titulo
-Breve descricao
+Projeto Front End desenvolvido com Tailwind CSS, com base no desafio proposto pela plataforma Front End Mentor.
 
 # Sobre o projeto
 
 ## Introdução
-Descricao mais detalhada
+Projeto estruturado em Tailwind CSS, utilizando o framework para construção de todos os elementos e layout do site.
 
 ## Especificações
 *Autor*: Samuel Pacheco Ferreira    
-*Descrição*: ""  
-*Andamento*: ""      
-*Terá atualizações*:  ""        
+*Descrição*: Desafio da Front End Mentor, feito com Tailwind CSS  
+*Andamento*: Finalizado    
+*Terá atualizações*:  Não       
 
 ## Tecnologias
-*Tecnologias utilizadas*: ""       
+*Tecnologias utilizadas*: HTML, CSS e Tailwind CSS       
 *IDE*: Visual Studio Code.      
-*Estruturação*: E""   
+*Estruturação*: HTML  
 
 ## Funcionalidades
-| Funcionalidade | Situação |
-| ----------- | ----------- |
-| "" | "" |
-
-
-:clock130: - Em desenvolvimento   :heavy_check_mark: - Finalizado
-
+Nenhuma funcionalidade, apenas página estática com menu responsivo
 ## Requisitos para manipular código
-* "" 
+* Instalação do Tailwind CSS, do Autoprefixer e do Command Line Interface do PostCSS
 
 ## Execução do sistema
-1. ""
+1. Basta rodar o arquivo "index.html" em qualquer navegador
 
 ## Documentações do sistema e outros arquivos
-:link: "" 
+Nenhum item complementar
 
 ## Origem do projeto
-"" 
+:link: https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN 
 
 ## Principais dificuldades
-* "" 
+* Primeiro uso de Tailwind CSS
 
