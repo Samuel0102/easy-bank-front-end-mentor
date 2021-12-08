@@ -4,8 +4,8 @@
   "description": "\"front-end mentor challenge\"",
   "main": "index.js",
   "scripts": {
-    "build": "postcss build './src/static files/styles.css' -o './public/static files/main.css'",
-    "produ": "NODE_ENV=production postcss build './src/static files/styles.css' -o './public/static files/main.css'"
+    "build": "postcss build './src/static files/styles.css' -o './public/compiled.css'",
+    "produ": "NODE_ENV=production postcss build './src/static files/styles.css' -o './public/compiled.css'"
   },
   "keywords": [
     "tailwind",
