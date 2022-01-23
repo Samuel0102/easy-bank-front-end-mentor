@@ -1,5 +1,6 @@
-### Titulo
-Projeto Front End desenvolvido com Tailwind CSS, com base no desafio proposto pela plataforma Front End Mentor.
+### EasyBank Landing Page
+Projeto Front End desenvolvido com Tailwind CSS, com base no desafio proposto pela plataforma Front End Mentor.  
+:link: https://landing-page-easy-bank.netlify.app/
 
 # Sobre o projeto
 
