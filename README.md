@@ -1,43 +1,50 @@
-### EasyBank Landing Page
-Projeto Front End desenvolvido com Tailwind CSS, com base no desafio proposto pela plataforma Front End Mentor.  
-:link: https://landing-page-easy-bank.netlify.app/
+# EasyBank Landing Page
+Front-End Project developed with Tailwind CSS to implementate the Front-End Mentor Challenge.
 
-# Sobre o projeto
+## About the project
 
-## Introdução
-Projeto estruturado em Tailwind CSS, utilizando o framework para construção de todos os elementos e layout do site.
+### Final Visual
 
-## Especificações
-*Autor*: Samuel Pacheco Ferreira    
-*Descrição*: Desafio da Front End Mentor, feito com Tailwind CSS  
-*Andamento*: Finalizado    
-*Terá atualizações*:  Não       
+#### Desktop
 
-## Tecnologias
-*Tecnologias utilizadas*: HTML, CSS e Tailwind CSS       
-*IDE*: Visual Studio Code.      
-*Estruturação*: HTML  
+![image](https://user-images.githubusercontent.com/61472839/201791729-fb0ebfde-4afd-4d14-bc12-889584168e0b.png)
 
-## Funcionalidades
-Nenhuma funcionalidade atuante, mas cumpre com todos os requisitos propostos pela plataforma, tais como a responsividade e o menu hamburguer para dispositivos mobiles.
 
-## Requisitos para manipular código
-* Instalação do Tailwind CSS, do Autoprefixer e do Command Line Interface do PostCSS
+#### Mobile
 
-## Visual final
-<a href="https://ibb.co/NZCRhp6"><img src="https://i.ibb.co/gz9Y1wM/easybank1.png" alt="easybank1" border="0"></a>
-<a href="https://ibb.co/7psG47S"><img src="https://i.ibb.co/M1FR6qg/easybank2.png" alt="easybank2" border="0"></a>
-<a href="https://ibb.co/Wc6YpMY"><img src="https://i.ibb.co/K9X3zf3/easybank3.png" alt="easybank3" border="0"></a>
+![image](https://user-images.githubusercontent.com/61472839/201791795-ce682f72-eadc-4966-853e-2018820dadbf.png)
 
-## Execução do sistema
-1. Basta rodar o arquivo "index.html" em qualquer navegador
 
-## Documentações do sistema e outros arquivos
-Nenhum item complementar
+### Introduction
+This project has the main focus to implementate the Easy Bank Landing Page Design by the Front-End Mentor platform. As requirements of the challenge, the landing page is fully responsive and his main Technology is Tailwind CSS.
 
-## Origem do projeto
-:link: https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN 
+### Especifications
+*Author*: Samuel Pacheco Ferreira    
+*Description*: Front-End Project to implementate Front-End Mentor Challenge   
+*Stage*: Finished       
+*Will be updated?*: No          
 
-## Principais dificuldades
-* Primeiro uso de Tailwind CSS
+### Technologies
+*Technologies*: TailwindCSS         
+*IDE*: Visual Studio Code        
+*Main Structure*: HTML5     
+
+### Functionalities
+* Only a static page
+
+### Requirements to coding
+* Install TailwindCSS, AutoPrefixer and Command Line PostCSS(with the command `npm install`, after clone the repository)
+
+### System Execution
+1. After install all of the required dependencies run the server with the command `npm run serve`
+
+### Documentation or other files
+:link: 
+
+### Project Origin
+* Front-End Mentor Challenge
+:link: https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN
+
+### Main Challenges of the project
+* First using of TailwindCSS
 
